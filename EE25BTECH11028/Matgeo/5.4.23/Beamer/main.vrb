@@ -1,0 +1,13 @@
+\frametitle{Python and C Code}
+
+\begin{lstlisting}
+
+plt.grid(True)
+plt.gca().set_aspect('equal', adjustable='box')
+plt.title('Effect of Matrix A and its Inverse on the Unit Square')
+plt.legend()
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+plt.tight_layout()
+plt.show()
+  \end{lstlisting}
